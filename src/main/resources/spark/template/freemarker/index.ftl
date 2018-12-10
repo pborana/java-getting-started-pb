@@ -17,7 +17,7 @@
     <p>This is a sample Java application deployed to Heroku. It's a reasonably simple app - but a good foundation for understanding how to get the most out of the Heroku platform.</p>
 
 
-    <h2>here is another latest feature - pb</h2>
+    <h2>here is another latest feature</h2>
 
     
     <a type="button" class="btn btn-lg btn-default" href="https://devcenter.heroku.com/articles/getting-started-with-java"><span class="glyphicon glyphicon-flash"></span> Getting Started with Java</a>
